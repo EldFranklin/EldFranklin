@@ -1,5 +1,3 @@
-using System.Threading; // BETA, EM ATUALIZACAO
-using System.IO;
 namespace StopWatch{
     class StopWatch{
         static void Main(string[]args){
@@ -30,8 +28,8 @@ namespace StopWatch{
 
         static void Preparacao(int tempo){
             Console.Clear();
-            for(int i = 2; i==0; i--){
-                Console.WriteLine($"Começando em{i+1}");
+            for(int i = 2; i>=0; i--){
+                Console.WriteLine($"Começando em {i+1}!");
                 Thread.Sleep(1000);
 
             }
