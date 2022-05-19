@@ -1,3 +1,6 @@
+using Sytem.Threadin;
+using System;
+
 namespace StopWatch{
     class StopWatch{
         static void Main(string[]args){
