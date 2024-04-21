@@ -2,7 +2,7 @@
 - 👀 I’m interested in Back-End Development
 - 🌱 I’m currently learning C# and Go
 - 📫 How to reach me :
-- https://www.linkedin.com/in/wesley-franklin-540463237/
+- www.linkedin.com/in/franklinwf
 - wesleyfranklin@alu.ufc.br
 
 Note: This git is from a person who is starting now, with time an interesting repository will be built
