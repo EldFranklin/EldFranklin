@@ -5,6 +5,15 @@
 - www.linkedin.com/in/franklinwf
 - wesleyfranklin@alu.ufc.br
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EldFranklin&show_icons=true&theme=radical)
+
+[![Contribuições](https://img.shields.io/badge/Contribuições-1000+-green)](https://github.com/EldFranklin)
+
+
+
+
+
+
+<br>
 Note: This git is from a person who is starting now, with time an interesting repository will be built
 
 <!---
