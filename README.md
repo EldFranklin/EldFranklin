@@ -10,9 +10,6 @@
 - [LinkedIn](https://www.linkedin.com/in/franklinwf)
 - Email: [wesleyfranklin@alu.ufc.br](mailto:wesleyfranklin@alu.ufc.br)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EldFranklin&show_icons=true&theme=radical)
-
 ## 🌐 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EldFranklin&layout=compact&theme=radical)
 
