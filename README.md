@@ -4,7 +4,7 @@
 - 📫 How to reach me :
 - www.linkedin.com/in/franklinwf
 - wesleyfranklin@alu.ufc.br
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EldFranklin&show_icons=true&theme=radical)
 Note: This git is from a person who is starting now, with time an interesting repository will be built
 
 <!---
