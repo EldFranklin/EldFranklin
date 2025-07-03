@@ -19,7 +19,7 @@
 
 ---
 
-> 🧠 *Este perfil GitHub é de alguém que está apenas começando, mas com vontade de aprender e construir algo significativo. Com o tempo, repositórios úteis e criativos tomarão forma por aqui!*
+> *Este perfil GitHub é de alguém que está apenas começando, mas com vontade de aprender e construir algo significativo. Com o tempo, repositórios úteis e criativos tomarão forma por aqui!*
 
 ---
 
