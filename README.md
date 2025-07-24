@@ -5,7 +5,7 @@
 - Curioso por tecnologias web, APIs, bancos de dados e arquitetura de sistemas.
 
 ## 🌱 Aprendizado Atual
-- Atualmente estudando linguagens de programação voltadas para sistemas e web, explorando cada linha de código com propósito 💡.
+- Atualmente estudando linguagens de programação voltadas para sistemas e web, explorando cada linha de código com propósito.
 
 ## 📫 Como Me Encontrar
 - [📎 LinkedIn](https://www.linkedin.com/in/franklinwf)
